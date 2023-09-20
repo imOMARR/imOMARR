@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @imOMARR
+- I'm a backend developer
+- 🌱 I’m currently learning Javascript
